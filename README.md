@@ -29,7 +29,7 @@ To run these notebooks, you will need to have the following software installed:
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/Advanced_Numerical_Methods_with_CUDA.git
+   git clone [https://github.com/yourusername/Advanced_Numerical_Methods_with_CUDA.git](https://github.com/aqaPayam/Advanced_Numerical_Methods_with_CUDA.git)
    cd Advanced_Numerical_Methods_with_CUDA
    \`\`\`
 
